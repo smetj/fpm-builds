@@ -1,4 +1,4 @@
-fpm-builds
-==========
+FPM-commands
+============
 
-A repository containing fpm commands to build packages.
+A collection of FPM commands to build Packages.
